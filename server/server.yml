@@ -1,0 +1,5 @@
+langservers:
+  python:
+    - /Users/hetao101/anaconda3/bin/python
+    - -m
+    - pyls
